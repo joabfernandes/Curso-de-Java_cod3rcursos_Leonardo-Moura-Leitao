@@ -1,0 +1,13 @@
+package fundamentos;
+
+public class Temperatura {
+
+	public static void main(String[] args) {
+		// (°F - 32) x 5/9 = °C
+		
+		double F = 0
+		double = formula1
+		
+		
+	}
+}

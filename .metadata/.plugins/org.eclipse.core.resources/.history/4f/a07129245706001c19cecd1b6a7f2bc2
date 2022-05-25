@@ -1,0 +1,15 @@
+package fundamentos;
+
+public class Temperatura {
+
+	public static void main(String[] args) {
+		// (°F - 32) x 5/9 = °C
+		
+		fundamento.Temperatura.main f = 0
+		double formula = - 32
+		int div = 5/9
+		double c = 0 
+		
+		
+	}
+}

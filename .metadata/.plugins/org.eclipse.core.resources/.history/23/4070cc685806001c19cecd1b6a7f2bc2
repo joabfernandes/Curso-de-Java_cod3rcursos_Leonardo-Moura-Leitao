@@ -1,0 +1,18 @@
+package fundamentos;
+
+public class Temperatura {
+
+	public static void main(String[] args) {
+		// (°F - 32) x 5/9 = °C
+		
+	    int temperaturaf = 0;
+		double formula = - 32;
+		int div = 5/9;
+		int temperaturac = 0; 
+		
+		temperaturaf = 100;
+		temperaturac = (temperaturaf - formula) * div;
+		
+		System.out.println(temperaturac);
+	}
+}
